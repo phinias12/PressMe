@@ -1,0 +1,1 @@
+This project was made in my 9th grade computer science class. It's a simple concept that still needs help since it is a project I'm not committed anymore. The object is basically to run the program and click the squares as fast as possible. If you miss, you lose points, however, if you press the square, you get points! It is a fun game. :D
